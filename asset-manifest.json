@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/abcwallet-extension-provider-api-demo/static/css/main.3537d778.chunk.css",
-    "main.js": "/abcwallet-extension-provider-api-demo/static/js/main.1eb878fc.chunk.js",
-    "main.js.map": "/abcwallet-extension-provider-api-demo/static/js/main.1eb878fc.chunk.js.map",
+    "main.js": "/abcwallet-extension-provider-api-demo/static/js/main.60b4ad85.chunk.js",
+    "main.js.map": "/abcwallet-extension-provider-api-demo/static/js/main.60b4ad85.chunk.js.map",
     "runtime-main.js": "/abcwallet-extension-provider-api-demo/static/js/runtime-main.e5fcffa1.js",
     "runtime-main.js.map": "/abcwallet-extension-provider-api-demo/static/js/runtime-main.e5fcffa1.js.map",
     "static/js/2.361d784b.chunk.js": "/abcwallet-extension-provider-api-demo/static/js/2.361d784b.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e5fcffa1.js",
     "static/js/2.361d784b.chunk.js",
     "static/css/main.3537d778.chunk.css",
-    "static/js/main.1eb878fc.chunk.js"
+    "static/js/main.60b4ad85.chunk.js"
   ]
 }
