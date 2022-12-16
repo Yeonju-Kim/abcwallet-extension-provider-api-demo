@@ -85,6 +85,8 @@ function App() {
     window.sessionStorage.removeItem('userAccount');
     setUserInfo({});
     setIsConnected(false);
+    setAddress('');
+    setContractAddress('');
   }
 
   // 유저정보

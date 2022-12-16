@@ -25,3 +25,5 @@ node_modules
 
 # ignore package-lock file
 package-lock.json
+
+build/
