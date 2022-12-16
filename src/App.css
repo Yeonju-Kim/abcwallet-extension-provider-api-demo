@@ -148,7 +148,6 @@ button.connect-button:active::before {
 
 
 button.disconnect-button {
-    margin: 50px;
     font-weight: 600;
     color: #382b22;
     text-transform: uppercase;
