@@ -1,5 +1,9 @@
 ## abcwallet-extension-provicer-api-demo
 
+This repo is fork of [abcWalletDemo](https://github.com/ahnlabio/abcwallet-extension-provider-api-demo). 
+Additionally, sendingTransaction, signMessage, and tokenTransfer(smart contract execution) function are added to test.
+
+
 ### Getting Started  
 
 1. Run `npm install` to install node packages
